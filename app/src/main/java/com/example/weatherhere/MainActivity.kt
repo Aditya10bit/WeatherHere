@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
         )
         setContentView(binding.root)
        fetchWeatherData("Kolkata")
-        SearchCity()
+       SearchCity()
     }
 
     private fun SearchCity() {
