@@ -396,7 +396,7 @@
         android:fontFamily="@font/merriweathersans_bold"
         android:text="Designed by \n Aditya"
         android:textAlignment="center"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="15sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
